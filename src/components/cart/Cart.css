@@ -1,0 +1,35 @@
+.cart {
+    position: sticky;
+    top: 0;
+    margin-top: 20px;
+    padding: 12px;
+    text-transform: capitalize;
+}
+
+.cart h3 {
+    padding-bottom: 16px;
+    text-align: center;
+}
+
+.btn-cart-order {
+    margin-top: 24px;
+}
+
+.dle-btn,
+.review-order-btn {
+    width: 100%;
+    padding: 12px 0;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.dle-btn {
+    background-color: #FF3030;
+    margin-bottom: 18px;
+}
+
+.review-order-btn {
+    background-color: #FF9900;
+}
